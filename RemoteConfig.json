@@ -6,7 +6,7 @@
   "forceUpdateUrl": "market://details?id=nes.video.game",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 0,
+  "showNESGamesTimeDelay": 100,
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
