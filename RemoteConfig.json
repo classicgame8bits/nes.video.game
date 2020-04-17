@@ -9,6 +9,7 @@
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
+  "showBanner": false,
   "showNewGames": false,
   "newGames": [
     {
